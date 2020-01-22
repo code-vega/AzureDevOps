@@ -1,6 +1,5 @@
 # AzureDevOps
 Deploy Web Apps, SQL Server and Storage Account
--------------------------------------------------------------------------------------------------------------------------
 
 ## If this is your first time using Azure PowerShell then you must 1) install the Azure module and 2) Allow PowerShell Scripts to be executed from your machine.
 
@@ -22,5 +21,5 @@ You must then run the Connect_to_Azure script and select "A" the first time.
 4)Deploy a Blank SQL Server and populate it with a relational database from a GitHub repo.        
 5)Delete the Resource Group therefore deleting all the apps, databases and storage accounts.      
 
-You can also run the Deploy_All PowerScript which deploys a Storage Account, a Web App from a GitHub repo, and a blank SQL Database
+You can also run the Deploy_All PowerScript which deploys a Storage Account, a Web App from a GitHub repo, and a blank SQL Database.
 ------  
