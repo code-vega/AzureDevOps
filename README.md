@@ -22,6 +22,5 @@ You must then run the Connect_to_Azure script and select "A" the first time.
 4)Deploy a Blank SQL Server and populate it with a relational database from a GitHub repo.        
 5)Delete the Resource Group therefore deleting all the apps, databases and storage accounts.      
 
-You can also run the Deploy_All PowerScript which combines 2 through 4.
-  - You will be prompted to type the local path of the second app.
-  
+You can also run the Deploy_All PowerScript which deploys a Storage Account, a Web App from a GitHub repo, and a blank SQL Database
+------  
