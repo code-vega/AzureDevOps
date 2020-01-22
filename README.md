@@ -16,7 +16,7 @@ You must then run the Connect_to_Azure script and select "A" the first time.
 
 ## The PowerScripts are split into 5 parts.
 1)Connect to Azure.           
-2)Deploy a Storage Account and a Web App from a GitHub HTML repository.     
+2)Deploy a Storage Account and a Web App from a GitHub HTML repository (Azure.com>More>Resources>Code Samples>HTML Web App).     
 3)Deploy a Web App from your local Machine (ZIP file located in WebApps Branch). When prompted for path do not include quotation marks.     
 4)Deploy a Blank SQL Server and populate it with a relational database from a GitHub repo.        
 5)Delete the Resource Group therefore deleting all the apps, databases and storage accounts.      
